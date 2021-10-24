@@ -1,2 +1,2 @@
 # georgi-machacek
-Georgi-Machacek files
+Files to explore the parameter space of the Georgi-Machacek model.
